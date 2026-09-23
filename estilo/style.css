@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root{
+    --cor-fundo: #f0f4f8;
+    --cor-container: #ffffff;
+    --cor-titulo-destaques: #1a73e8;
+    --cor-botao: #1a73e8;
+    --cor-texto: #333333;
+    --cor-borda-cards:#e0e0e0
+}
+
+body{
+    background-color: var(--cor-fundo);
+}
+

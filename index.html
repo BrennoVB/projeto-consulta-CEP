@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultar CEPS</title>
+    <link rel="stylesheet" href="estilo/style.css">
+</head>
+<body>
+    <div id="principal">
+        <h1>Consulta de CEPS e Endereços</h1>
+
+        <input type="text" name="caixa_texto" id="icaixa_texto" required placeholder="40240430" maxlength="8">
+        <button id="btn-buscarCEP">Buscar</button>
+
+        <div id="resultado-endereco">
+
+        </div>
+
+        <div id="historico-consultas">
+            <h2>Historico</h2>
+
+            <div id="itensJS">
+
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="scripts/script.js"></script>
+</body>
+</html>

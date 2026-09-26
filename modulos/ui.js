@@ -11,6 +11,8 @@ export function exibirHistorico(historico){
 
     for(let i = 0; i < historico.length; i++){
         let cardItens = document.createElement('div')
+        cardItens.dataset.cep = historico[i].cep
+        
         let botaoRemover = document.createElement('button')
 
         cardItens.classList.add('itens-historico')

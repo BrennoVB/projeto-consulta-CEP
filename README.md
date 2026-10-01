@@ -1,12 +1,12 @@
-# 📮 Consulta de CEPs e Endereços
+#  Consulta de CEPs e Endereços
 
 Sistema web para consulta de CEPs brasileiros com histórico de pesquisas, desenvolvido com HTML, CSS e JavaScript puro.
 
-🔗 **[Acesse o projeto](https://brennovb.github.io/projeto-consulta-CEP/)**
+ **[Acesse o projeto](https://brennovb.github.io/projeto-consulta-CEP/)**
 
 ---
 
-## 📋 Funcionalidades
+##  Funcionalidades
 
 - Consulta de CEP em tempo real via API ViaCEP
 - Validação do CEP com Expressões Regulares (RegEx)
@@ -17,7 +17,7 @@ Sistema web para consulta de CEPs brasileiros com histórico de pesquisas, desen
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5
 - CSS3 (Flexbox e Media Queries)
@@ -30,7 +30,7 @@ Sistema web para consulta de CEPs brasileiros com histórico de pesquisas, desen
 
 ---
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 projeto-consulta-CEP/
@@ -45,7 +45,7 @@ projeto-consulta-CEP/
     └── ui.js
 ```
 
-## ⚙️ Como usar
+##  Como usar
 
 1. Clone o repositório
 ```bash
